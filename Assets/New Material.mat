@@ -72,7 +72,7 @@ Material:
     m_Floats:
     - first:
         name: _AtmosphereThickness
-      second: 0.42
+      second: 0.3
     - first:
         name: _BumpScale
       second: 1
@@ -87,7 +87,7 @@ Material:
       second: 0
     - first:
         name: _Exposure
-      second: 0.5
+      second: 3.33
     - first:
         name: _GlossMapScale
       second: 1
@@ -139,7 +139,7 @@ Material:
       second: {r: 0, g: 0, b: 0, a: 1}
     - first:
         name: _GroundColor
-      second: {r: 0.17647058, g: 0.17647058, b: 0.17647058, a: 1}
+      second: {r: 0, g: 0, b: 0, a: 1}
     - first:
         name: _SkyTint
-      second: {r: 0.27005842, g: 0.9328467, b: 0.99264705, a: 1}
+      second: {r: 0.029195482, g: 0.22438239, b: 0.7941176, a: 1}
